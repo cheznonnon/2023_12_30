@@ -18,6 +18,13 @@ Change Log
 BUGFIX
 
 
+	Nonnon CatPad
+		Key Bindings : Command + Q
+			OLD : disabled
+			NEW : enabled again
+			[!] : App Store Connect sais "Needed, don't be disabled"
+
+
 NEW_FEATURE
 
 
